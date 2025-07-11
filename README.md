@@ -41,7 +41,7 @@ Right now I’m focused on closing the skill gap between where I am and what’s
 
 - 🗃️ [SQL Challenges](#) – queries built from actual data sets
 
-- 📝 [Learning Log](/Data-Engineering-Learning/learning-log) – short notes on what I’ve learned, mistakes I’ve made, and how I fixed them
+- 📝 [Learning Log](https://github.com/backToSoftwareEngineering/Data-Engineering-Learning/tree/main/learning-log) – short notes on what I’ve learned, mistakes I’ve made, and how I fixed them
 
 
 ---
