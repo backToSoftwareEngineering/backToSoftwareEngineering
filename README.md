@@ -36,7 +36,7 @@ Right now I’m focused on closing the skill gap between where I am and what’s
 ## Links
 
 
-- 🐍 [Python Practice Snippets](#) – solving practical problems
+- 🐍 [IC3 scraper](https://github.com/backToSoftwareEngineering/IC3_scraper)
 
 - 📝 [Learning Log](https://github.com/backToSoftwareEngineering/Data-Engineering-Learning/tree/main/learning-log) – short notes on what I’ve learned, mistakes I’ve made, and how I fixed them
 
