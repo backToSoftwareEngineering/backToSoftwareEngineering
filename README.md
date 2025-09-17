@@ -35,11 +35,8 @@ Right now I’m focused on closing the skill gap between where I am and what’s
 
 ## Links
 
-- 📚 [ERD Practice Cases & Diagrams](#) – in progress (includes hand-built ERDs from real-ish cases)
 
 - 🐍 [Python Practice Snippets](#) – solving practical problems
-
-- 🗃️ [SQL Challenges](#) – queries built from actual data sets
 
 - 📝 [Learning Log](https://github.com/backToSoftwareEngineering/Data-Engineering-Learning/tree/main/learning-log) – short notes on what I’ve learned, mistakes I’ve made, and how I fixed them
 
